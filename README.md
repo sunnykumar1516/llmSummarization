@@ -1,2 +1,7 @@
-# llmSummarization
-a sample llm app with genai features. I can summarise the contents of url
+license: mit
+title: text summary
+sdk: streamlit
+emoji: 🚀
+colorFrom: yellow
+colorTo: blue
+short_description: it will create summary for you.
