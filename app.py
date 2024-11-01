@@ -8,6 +8,14 @@ from langchain_community.document_loaders import YoutubeLoader,UnstructuredURLLo
 # setting streamlit
 st.set_page_config(page_title="DEmo for summarization")
 st.title("Summarize it for me")
+st.markdown('''
+    :red[ I Can summarize] :orange[url content] :green[Supply] :blue[Url in the box] .''')
+st.markdown('''
+    :blue[ created by] :orange[sunny Kumar].''')
+st.markdown('''
+    :blue[ contact me at] :orange[sunnyKumar1516@gmail.com].''')
+st.markdown('''
+    :blue[linkdin] :orange[https://www.linkedin.com/in/sunny-kumar-b232417a/].''')
 
 # groq API
 #with st.sidebar:
